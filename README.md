@@ -76,3 +76,7 @@ import MyIcon from '~/assets/icons/my-icon.svg';
   <MyIcon />
 </template>
 ```
+
+### for use Makefile 
+
+Command to run the script: `make test`

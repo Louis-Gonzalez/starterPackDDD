@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { useI18n} from 'vue-i18n';
-import { ref } from 'vue'
+import { useI18n } from 'vue-i18n';
+import { ref } from 'vue';
 import Home from './../assets/icons/home.svg';
 import Microsoft from './../assets/icons/microsoft.svg';
 

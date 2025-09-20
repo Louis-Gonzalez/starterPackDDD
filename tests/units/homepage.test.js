@@ -3,10 +3,10 @@ import { mount } from '@vue/test-utils';
 import { createI18n } from 'vue-i18n';
 
 vi.mock('../../assets/icons/home.svg', () => ({
-  default: { template: '<svg class="mock-home"/>' }
+  default: { template: '<svg class="mock-home"/>' },
 }));
 vi.mock('../../assets/icons/microsoft.svg', () => ({
-  default: { template: '<svg class="mock-microsoft"/>' }
+  default: { template: '<svg class="mock-microsoft"/>' },
 }));
 
 import MyPage from '../../pages/index.vue';

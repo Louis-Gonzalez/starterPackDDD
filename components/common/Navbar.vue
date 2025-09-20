@@ -16,6 +16,10 @@ const routeList = [
     path: '/admin/admin',
   },
   {
+    name: 'Composables',
+    path: '/composables',
+  },
+  {
     name: 'Login',
     path: '/authentication/login',
   },
